@@ -14,7 +14,7 @@ This repository serves as documentation for hosting a variety of server applicat
 ## OS Installation
 There are a variety of ways that you can go about installing the OS for an RPi (Raspberry Pi). My recommendation is to utilize the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) and a micro SD card to perform the install. 
 
-**USING THE RASPBERRY IMAGER**
+### Using the Raspberry Pi Imager
 
 More documentation for that process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
 
