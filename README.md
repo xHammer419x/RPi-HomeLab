@@ -1,5 +1,5 @@
 # HomeLab - Docker-based Home Server
-This repository serves as documentation for hosting a variety of server applications using [Docker](https://www.docker.com/) and [Portainer](https://www.portainer.io/) on a [RaspberryPi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/).
+This repository serves as documentation for learning to setup and customize a homelab on a [RaspberryPi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/).
 
 ![image](https://github.com/user-attachments/assets/7ee7b072-f4de-41ff-91fe-748761d248d6)
 
@@ -12,8 +12,13 @@ This repository serves as documentation for hosting a variety of server applicat
 - [HDMI Cable](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SIJY/ref=zg_bs_g_202505011_d_sccl_3/144-2581314-6655903) 
 
 ## OS Installation
-There are a variety of ways that you can go about installing the OS for an RPi (Raspberry Pi). My recommendation is to utilize the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) and a micro SD card to perform the install. 
+There are a variety of ways that you can go about installing the OS for a RPi (Raspberry Pi). My recommendation is to utilize the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) and a micro SD card to perform the install. 
 
 Comprehensive documentation for that process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
 
 ## Post OS Installation 
+After preparing your fresh install of your preferred RPi OS, you'll want to:
+- Apply thermal paste to your heat sink, secure your heatsink to your CPU, and assemble the RPi inside of its case.
+- Connect your micro SD card to your RPi.
+- Connect your power supply and turn on your RPi.
+- 
