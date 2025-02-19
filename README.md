@@ -12,6 +12,8 @@ This repository serves as documentation for hosting a variety of server applicat
 - [HDMI Cable](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SIJY/ref=zg_bs_g_202505011_d_sccl_3/144-2581314-6655903) 
 
 ## OS Installation
-There are a variety of ways that you can go about installing the OS for an RPi (Raspberry Pi). My recommendation is to utilize the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) and a micro SD card to perform the install. More documentation for that process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
+There are a variety of ways that you can go about installing the OS for an RPi (Raspberry Pi). My recommendation is to utilize the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) and a micro SD card to perform the install. 
+###Using Raspberry Pi Imager
+More documentation for that process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
 
 ## Post OS Installation 
