@@ -12,5 +12,7 @@ This repository serves as documentation for hosting a variety of server applicat
 - [HDMI Cable](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SIJY/ref=zg_bs_g_202505011_d_sccl_3/144-2581314-6655903) 
 
 ## OS Installation
+Along with your RPi (Raspberry Pi)
+
 
 ## Post OS Installation 
