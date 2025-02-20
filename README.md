@@ -12,7 +12,7 @@ This repository serves as documentation for learning to setup and customize a ho
 - [HDMI Cable](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SIJY/ref=zg_bs_g_202505011_d_sccl_3/144-2581314-6655903) 
 
 ## OS Installation
-There are a variety of ways that you can go about installing the OS for a RPi (Raspberry Pi). My recommendation is to utilize the RPi Imager provided by Raspberry Pi to format a micro SD card and perform the OS install. The imager can be installed and used on macOS, Windows, and Linux devices alike as well as supported RPi devices.
+There are a variety of ways that we can go about installing the OS for a RPi (Raspberry Pi). My recommendation is to utilize the RPi Imager provided by Raspberry Pi to format a micro SD card and perform the OS install. The imager can be installed and used on macOS, Windows, and Linux devices alike as well as supported RPi devices.
 
 ### Install with RPi Imager
 On a separate device, download the latest version of the [Raspberry Pi Imager](https://www.raspberrypi.com/software/). If you are using a RPi device, run the following command: 
@@ -40,3 +40,6 @@ After preparing your fresh install of your preferred RPi OS, you'll want to:
 - Apply thermal paste to your heat sink, secure your heatsink to your CPU, and assemble the RPi inside of its case.
 - Connect your micro SD card to your RPi.
 - Connect your power supply and turn on your RPi.
+
+##Docker
+In order to begin preparing our home lab environment, we'll want to install []
