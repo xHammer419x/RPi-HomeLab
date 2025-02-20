@@ -12,9 +12,13 @@ This repository serves as documentation for learning to setup and customize a ho
 - [HDMI Cable](https://www.amazon.com/AmazonBasics-High-Speed-HDMI-Cable-1-Pack/dp/B014I8SIJY/ref=zg_bs_g_202505011_d_sccl_3/144-2581314-6655903) 
 
 ## OS Installation
-There are a variety of ways that you can go about installing the OS for a RPi (Raspberry Pi). My recommendation is to utilize the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) and a micro SD card to perform the install. 
+There are a variety of ways that you can go about installing the OS for a RPi (Raspberry Pi). My recommendation is to utilize the RPi Imager provided by Raspberry Pi to format a micro SD card and perform the OS install. The imager can be installed and used on macOS, Windows, and Linux devices alike as well as supported RPi devices.
 
-Comprehensive documentation for that process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
+### Install with RPi Imager
+On a separate device, download the latest version of the [Raspberry Pi Imager](https://www.raspberrypi.com/software/). If you are using a RPi device, run the following command:
+`sudo apt install rpi-imager`
+
+More documentation for the imaging process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
 
 ## Post OS Installation 
 After preparing your fresh install of your preferred RPi OS, you'll want to:
