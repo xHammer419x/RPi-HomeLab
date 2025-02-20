@@ -29,9 +29,9 @@ You will be prompted with a window asking if you want to customize your OS. Clic
 
 ![image](https://github.com/user-attachments/assets/6662ddac-86a4-4d3d-8d15-df1458ee594b)
 
-Under the _General_ tab , you can set and edit some items like your computer's hostname, username, password, and more. Under the _Services_ tab, you can opt to enable/disable SSH. Since we are customizing our RPi with creating a home lab environment in mind, go ahead and click the checkbox next to _Enable SSH_ and insure _Use password authentication_ is selected. There are also a few other options that you can opt for under the _Options_ tab. 
+Under the _General_ tab , you can set and edit some items like your computer's hostname, username, password, and more. Under the _Services_ tab, you can opt to enable/disable SSH. Since we are customizing our RPi with creating a home lab environment in mind, go ahead and click the checkbox next to _Enable SSH_ and insure _Use password authentication_ is selected. There are also a few other options that you can opt for under the _Options_ tab. Once you have configured your settings accordingly, click **Save** and **Yes**. 
 
-Once you have configured your settings accordingly, click **Save** and **Yes**. You'll be prompted with a warning about erasing data on your removable media. Remember to remove and/or backup any information that might be stored on the drive you are formatting. Once you have done so, click **Yes**.
+You'll be prompted with a warning about erasing data on your removable media. Remember to remove and/or backup any information that might be stored on the drive you are formatting. Once you have done so, click **Yes**.
 
 More documentation for the imaging process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
 
