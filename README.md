@@ -31,7 +31,7 @@ You will be prompted with a window asking if you want to customize your OS. Clic
 
 Under the _General_ tab , you can set and edit some items like your computer's hostname, username, password, and more. Under the _Services_ tab, you can opt to enable/disable SSH. Since we are customizing our RPi with creating a home lab environment in mind, go ahead and click the checkbox next to "Enable SSH" and insure "Use password authentication" is selected. There are also a few other options that you can opt for under the _Options_ tab. Once you have configured your settings accordingly, click **Save** and **Yes**. 
 
-You'll be prompted with a warning about erasing data on your drive. Remember to remove and/or backup any information that might be stored on the drive you are formatting. Once you have done so, click **Yes**. The imager will then proceed writing data to your drive and verifying the data intergrity. Once this process is complete, your drive is completed and ready to be used to install the OS on your RPi computer.
+You'll be prompted with a warning about erasing data on your drive. Remember to remove and/or backup any information that might be stored on the drive you are formatting. Once you have done so, click **Yes**. The imager will then proceed writing data to your drive and verifying the data intergrity. Once this process is complete, your drive is ready to be used to install the OS on your RPi computer.
 
 More documentation for the imaging process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
 
