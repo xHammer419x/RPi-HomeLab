@@ -18,6 +18,7 @@ There are a variety of ways that you can go about installing the OS for a RPi (R
 On a separate device, download the latest version of the [Raspberry Pi Imager](https://www.raspberrypi.com/software/). If you are using a RPi device, run the following command: 
 
 `sudo apt install rpi-imager`.
+
 Once you've installed the RPi Imager, run the application. You'll then be prompted with this image:
 
 ![image](https://github.com/user-attachments/assets/78c1f9ec-7752-4016-8d79-711c6fc3af41)
