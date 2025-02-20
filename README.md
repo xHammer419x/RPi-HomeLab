@@ -41,5 +41,5 @@ After preparing your fresh install of your preferred RPi OS, you'll want to:
 - Connect your micro SD card to your RPi.
 - Connect your power supply and turn on your RPi.
 
-##Docker
-In order to begin preparing our home lab environment, we'll want to install []
+## Docker
+In order to begin preparing our home lab environment, we'll want to install [Docker](https://www.docker.com/) to manage our applications in containers, a package of software that includes every file and dependency needed to run an application. Deploying containers offer high maneuverabilty for applications within and between enivronments.
