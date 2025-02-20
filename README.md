@@ -19,10 +19,10 @@ On a separate device, download the latest version of the [Raspberry Pi Imager](h
 
 `sudo apt install rpi-imager`.
 
-Once you've installed the RPi Imager, run the application. You'll then be prompted with this image:
+Once you've installed the RPi Imager, run the application. You'll then be prompted with the following:
 
 ![image](https://github.com/user-attachments/assets/78c1f9ec-7752-4016-8d79-711c6fc3af41)
-
+Click _Choose Device_ and select your corresponding hardware model. Then, click _Choose OS_ and select the desired RPi OS. The recommended option for most computers is the **Raspberry Pi OS (64-bit)**. Then, select the removable media where you want to store the OS. Once these options have been selected, click _Next_. You will be prompted with a window asking if you want to customize your OS. Click **Edit Settings** and customize the settings accordingly. Since we are customizing our RPi with creating a home lab environment in mind, 
 
 More documentation for the imaging process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
 
