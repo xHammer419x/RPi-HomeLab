@@ -27,7 +27,7 @@ Click _Choose Device_ and select your corresponding hardware model. Then, click 
 
 You will be prompted with a window asking if you want to customize your OS. Click **Edit Settings** and customize the settings accordingly. This will bring up the following options: 
 
-![image](https://github.com/user-attachments/assets/6662ddac-86a4-4d3d-8d15-df1458ee594b)
+![image](https://github.com/user-attachments/assets/53181f70-dcf8-41dd-b019-c2f3a48ac705)
 
 Under the _General_ tab , you can set and edit some items like your computer's hostname, username, password, and more. Under the _Services_ tab, you can opt to enable/disable SSH. Since we are customizing our RPi with creating a home lab environment in mind, go ahead and click the checkbox next to _Enable SSH_ and insure _Use password authentication_ is selected. There are also a few other options that you can opt for under the _Options_ tab. Once you have configured your settings accordingly, click **Save** and **Yes**. 
 
