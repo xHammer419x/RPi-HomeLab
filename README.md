@@ -15,9 +15,13 @@ This repository serves as documentation for learning to setup and customize a ho
 There are a variety of ways that you can go about installing the OS for a RPi (Raspberry Pi). My recommendation is to utilize the RPi Imager provided by Raspberry Pi to format a micro SD card and perform the OS install. The imager can be installed and used on macOS, Windows, and Linux devices alike as well as supported RPi devices.
 
 ### Install with RPi Imager
-On a separate device, download the latest version of the [Raspberry Pi Imager](https://www.raspberrypi.com/software/). If you are using a RPi device, run the following command:
+On a separate device, download the latest version of the [Raspberry Pi Imager](https://www.raspberrypi.com/software/). If you are using a RPi device, run the following command: 
 
-`sudo apt install rpi-imager`
+`sudo apt install rpi-imager`.
+Once you've installed the RPi Imager, run the application. You'll then be prompted with this image:
+
+![image](https://github.com/user-attachments/assets/78c1f9ec-7752-4016-8d79-711c6fc3af41)
+
 
 More documentation for the imaging process can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system).
 
