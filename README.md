@@ -23,7 +23,7 @@ Once you've installed the RPi Imager, run the application. You'll then be prompt
 
 ![image](https://github.com/user-attachments/assets/78c1f9ec-7752-4016-8d79-711c6fc3af41)
 
-Click _Choose Device_ and select your corresponding hardware model. Then, click _Choose OS_ and select the desired RPi OS. The recommended option for most computers is the **Raspberry Pi OS (64-bit)**. However, I'll be using [**Ubuntu Server 24.04.2 LTS (64-bit)**](https://ubuntu.com/download/server) for this project. Once you've selected the desired OS for your RPi, select the removable media where you want to store the OS. Once these options have been selected, click **Next**. 
+Click _Choose Device_ and select your corresponding hardware model. Then, click _Choose OS_ and select the desired RPi OS. The recommended option for most computers is the **Raspberry Pi OS (32-bit)**. Once you've selected the desired OS for your RPi, select the removable media where you want to store the OS. Once these options have been selected, click **Next**. 
 
 You will be prompted with a window asking if you want to customize your OS. Click **Edit Settings** and customize the settings accordingly. This will bring up the following options: 
 
